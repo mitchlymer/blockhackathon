@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="Proposal-java.lang.String,avm.Address,">
+          <value>
+            <list>
+              <option value="hello" />
+              <option value="MItch" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addMember-avm.Address,">
+          <value>
+            <list>
+              <option value="mitch" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addProposal-java.lang.String,">
+          <value>
+            <list>
+              <option value="hello" />
+            </list>
+          </value>
+        </entry>
+        <entry key="getString-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="greet-java.lang.String,">
+          <value>
+            <list>
+              <option value="mitch" />
+            </list>
+          </value>
+        </entry>
+        <entry key="onlyOwner-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="sayHello-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="mitch" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
